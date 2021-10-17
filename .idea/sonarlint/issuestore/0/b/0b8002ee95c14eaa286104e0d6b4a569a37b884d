@@ -1,0 +1,13 @@
+
+ª
+java:S3577	"Rename class "DButilsPractice" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(Ñ’½Şşÿÿÿÿ
+3
+java:S5786"Remove this 'public' modifier.(Å¾Êh
+9
+java:S5786!"Remove this 'public' modifier.(†Ä¼üÿÿÿÿ
+@
+java:S5786	"Remove this 'public' modifier.(Ñ’½Şşÿÿÿÿ8¸íâº²/
+B
+java:S2699"-Add at least one assertion to this test case.(Å¾Êh
+O
+java:S2699!"-Add at least one assertion to this test case.(†Ä¼üÿÿÿÿ8ºíâº²/
