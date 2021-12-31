@@ -2,7 +2,6 @@ package jdbctests;
 
 import org.junit.jupiter.api.Test;
 import utilities.DBUtils;
-
 import java.util.List;
 import java.util.Map;
 

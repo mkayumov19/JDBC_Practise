@@ -10,7 +10,7 @@ import java.util.Map;
 
 public class DynamicList {
 
-    String dbUrl = "jdbc:oracle:thin:@44.193.18.240:1521:XE";
+    String dbUrl = "jdbc:oracle:thin:@44.195.19.167:1521:XE";
     String dbUserName = "hr";
     String dbPassword = "hr";
 
